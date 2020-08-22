@@ -1,0 +1,39 @@
+1. SVILUPARE ESPERIENA E DOCUMENTAZIONE SULL'USO DI OBS studio
+   separare in pezzi, a seconda del canale:
+
+   1.1.SETTAGGIO CANALI DI UN STREM:
+   1.1.1. introduzione generale a OBS studio:
+    come installare
+      TORNA IL PRINCIPIO: dobbiamo evitare di rifare quello che è già fatto
+      CI INTERSSANO I RISULTATI, NON IL TASSAMETRO O L'APPARENZA
+    come settare
+    come ottenere introduzione generale
+   1.1.2. come inserire nello stream il canale desktop
+   1.1.3. come inserire nello stream il canale MIC
+   1.1.4. come inserire nello stream il canale PC-audio
+   1.1.5. come inserire nello stream il canale webcam
+   1.1.6. come inserire nello stream il canale video dal cellulare (video/audio)
+   1.1.7. come mandare dal cellulare al PC
+
+   1.2. COSE DA FARE
+   mettere visibile l'orologio di sistema
+   assicurasi che orologio a posto
+   lanciare procedura o script di sincronizzazione
+
+   MODALITA' CLOUD/MODALITA' LOCALE
+
+   1.3. LOCALE
+   CHIUSURA LOCALE:
+   terminazione registrazione
+   generare la SHA1 / madare la SHA1
+
+   poi hai tempo/modi diversi per farci avere il file registrato
+
+   1.4. PROCEDURE PREVISTE DA NOI E SCRPT MESSI A DIPOSIZIONE DELO STUDENTE
+
+2. L'INDAGINE/ESPLORAZIONE CHE SERVE PER SCEGLIERE LE SOLUZIONI OPPORTUNE
+
+3. LA REALIZZAZIONE DELLA PIATTAFORMA DI SCRIPT UTILI
+   (PRIORITA' LATO STUDENTE)
+   RICORDIAMOCI CHE QUANTO PREDISPONIAMO PER LO STUDENTE E' MULTIPIATTAFORMA
+

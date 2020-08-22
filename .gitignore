@@ -1,0 +1,42 @@
+# archives
+*.zip
+*.tgz
+*.tar.gz
+*.tar
+*.7z
+
+# instance specific files
+student_download/shuttle
+student_download/lista_studenti_iscritti_con_chiavi.csv
+*.xls
+*.csv
+*.docx
+
+# the whole shuttle (containing the materials for the sudent's downloads)
+student_download/shuttle/**
+
+# backups
+*~
+*.bak
++.log
+
+# LaTex
+*.aux
+*.log
+*.bbl
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.vtc
+*.blg
+# MacOS X
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+a.out
+__pycache__/
+*.py[cod]
+*$py.class
+
